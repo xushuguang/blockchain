@@ -1,5 +1,7 @@
 package com.james.blockchain;
 
+import com.james.utils.StringUtil;
+
 import java.util.ArrayList;
 import java.util.Date;
 

@@ -1,7 +1,6 @@
 package com.james.noobchain;
 
 import com.james.blockchain.Block;
-import com.james.blockchain.StringUtil;
 
 import java.security.Security;
 import java.util.ArrayList;
@@ -143,10 +142,7 @@ public class NoobChain {
         System.out.println("WalletB的余额是: " + walletB.getBalance());
 
         isChainValid();
-
-        for (Block block : blockchain){
-            System.out.println(block.toString());
-        }
+        System.out.println(blockchain);
     }
 
 }

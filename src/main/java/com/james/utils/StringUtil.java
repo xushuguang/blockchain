@@ -1,4 +1,4 @@
-package com.james.blockchain;
+package com.james.utils;
 
 import com.google.gson.GsonBuilder;
 import com.james.noobchain.Transaction;

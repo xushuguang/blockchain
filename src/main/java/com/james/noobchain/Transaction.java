@@ -1,6 +1,6 @@
 package com.james.noobchain;
 
-import com.james.blockchain.StringUtil;
+import com.james.utils.StringUtil;
 
 import java.security.PrivateKey;
 import java.security.PublicKey;
